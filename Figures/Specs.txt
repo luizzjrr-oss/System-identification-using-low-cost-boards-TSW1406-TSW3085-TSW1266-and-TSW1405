@@ -1,0 +1,9 @@
+Pin = -1,9 dBm (0,65 mW)
+
+Ampleon BLF642
+Pout = 40.97 dBm (12,5 W)
+Current consumption = 1,11 A
+
+Blf884p
+Pout = 40.9  dBm (12,3 W)
+Current consumption = 1,01 A
